@@ -4,7 +4,9 @@ channels:
 dependencies:
   - numpy
   - scipy
-  - matplotib
+  - matplotlib
   - cftime
   - ipywidgets
-  - nsim
+  - pip
+  - pip:
+    - nsim
