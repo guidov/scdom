@@ -6,7 +6,5 @@ This is a Binder-compatible repo
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[SCDOM](https://mybinder.org/v2/gh/guidov/scdom/main?filepath=index.ipynb)
+[Binder: SCDOM](https://mybinder.org/v2/gh/guidov/scdom/main?filepath=index.ipynb)
 =======
-# scdom
-Simple conceptual model of the D-O oscillation with CO2 as a control parameter
